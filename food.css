@@ -1,0 +1,197 @@
+/* indian */
+.divin{
+    display: flex;
+}
+.inh{
+    padding: 10px;
+    width: 200px;
+    margin-left: 600px;
+    background-color: black;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+.in{
+
+margin-left: px;
+    text-align: center;
+    background-color: black;
+width: 200px;
+    border: 2px solid black;
+border-radius: 10px;
+font-size: 20px;
+}
+
+.in li{
+    padding: 5px;
+}
+
+
+.imgindian1{
+width: 500px;
+height: 500px;
+transform: translate(350px,-385px);
+}
+
+
+.imgindian2{
+    width: 500px;
+    height: 500px;
+    transform: translate(400px,-385px);
+
+    }
+
+
+
+
+    /* italian */
+
+.ith{
+    padding: 10px;
+    width: 250px;
+    margin-left: 600px;
+    background-color: rgb(203, 191, 191);
+    text-align: center;
+    border: 2px solid rgb(146, 29, 29);
+    border-radius: 10px;
+
+}
+
+.divit{
+    display: flex;
+}
+
+
+.it{
+
+margin-left: px;
+    text-align: center;
+    background-color: rgb(245, 245, 245);
+width: 200px;
+    border: 2px solid rgb(159, 104, 104);
+border-radius: 10px;
+font-size: 20px;
+}
+
+.it li{
+    padding: 5px;
+}
+
+
+.imgitalian1{
+width: 500px;
+height: 500px;
+transform: translate(100px,0px);
+}
+
+
+.imgitalian2{
+    width: 500px;
+    height: 500px;
+    transform: translate(170px,0px);
+
+    }
+
+
+    /* contenintal */
+    
+.frh{
+    padding: 10px;
+    width: 250px;
+    margin-left: 600px;
+    color: aliceblue;
+    background-color: rgb(195, 47, 47);
+    text-align: center;
+    border: 2px solid rgb(146, 29, 29);
+    border-radius: 10px;
+
+}
+
+ .divfr{
+    display: flex;
+}
+
+.fr{
+    
+    margin-left: px;
+    text-align: center;
+    color: bisque;
+    background-color: rgb(61, 80, 26);
+    width: 200px;
+    border: 2px solid rgb(159, 104, 104);
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.fr li{
+    padding: 5px;
+}
+
+
+.imgfr1{
+    width: 500px;
+    height: 500px;
+    transform: translate(100px,0px);
+}
+
+
+.imgfr2{
+    width: 500px;
+    height: 500px;
+    transform: translate(170px,0px);
+    
+}
+ 
+ 
+ 
+
+    /* thailand */
+
+    
+.thh{
+    padding: 10px;
+    width: 250px;
+    margin-left: 600px;
+    background-color: rgb(203, 191, 191);
+    text-align: center;
+    border: 2px solid rgb(146, 29, 29);
+    border-radius: 10px;
+
+}
+
+.divth{
+    display: flex;
+}
+
+
+.th{
+
+margin-left: px;
+    text-align: center;
+    background-color: rgb(245, 245, 245);
+width: 200px;
+    border: 2px solid rgb(159, 104, 104);
+border-radius: 10px;
+font-size: 20px;
+}
+
+.th li{
+    padding: 5px;
+}
+
+
+.imgthai1{
+width: 500px;
+height: 500px;
+transform: translate(100px,0px);
+}
+
+
+.imgthai2{
+    width: 500px;
+    height: 500px;
+    transform: translate(170px,0px);
+
+    }
